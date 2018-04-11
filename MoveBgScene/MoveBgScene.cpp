@@ -74,3 +74,5 @@ void MoveBgScene::update(float delta)
         createBackground();
     }
 }
+
+//test
