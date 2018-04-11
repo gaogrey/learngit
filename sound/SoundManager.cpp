@@ -225,3 +225,5 @@ bool iPodIsPlaying()
 {
     return SimpleAudioEngine::getInstance()->isBackgroundMusicPlaying();
 }
+
+//test
